@@ -213,5 +213,6 @@ This project was created to practice real-world SQL concepts used in Data Analys
 You can add your:
 
 * GitHub Profile
+* https://github.com/DigamabrShinde1342/Online_Bookstore_SQL_Project
 
 
